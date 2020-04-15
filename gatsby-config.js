@@ -10,7 +10,7 @@ module.exports = {
       resolve: "gatsby-source-shopify",
       options: {
         shopName: "garrett-gatsby",
-        accessToken: "4a7180a850bab6c7342da570e7bfc08f",
+        accessToken: "c486d7ddc343b92cd4c310a8aad19f4f",
         verbose: true,
         paginationSize: 250,
       },
